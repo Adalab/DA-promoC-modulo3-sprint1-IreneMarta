@@ -52,22 +52,18 @@ Realizado por Marta Núñez e Irene Powers en el Bootcamp de Análisis de Datos,
 ## En este repositorio podemos encontrar las siguientes librerías:
 
 #### Tratamiento de datos
-# ------------------------------------------------------------------------------
 numpy 
 pandas
 warnings
 
 #### Gráficos
-# ------------------------------------------------------------------------------
 matplotlib
 seaborn
 
 #### Modelado y evaluación
-# ------------------------------------------------------------------------------
 sklearn
 
 #### Barra de progreso de un proceso
-# ------------------------------------------------------------------------------
 tqdm 
 
 
